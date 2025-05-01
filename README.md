@@ -34,17 +34,7 @@ Tecnologias Utilizadas:
 
 ![Inicial](![image](https://github.com/user-attachments/assets/8f66b5f6-2d33-41e1-9bf8-f35a7f4de1bd))
 
-![/animals](![image](https://github.com/user-attachments/assets/83f594ab-a9c9-44e5-81a0-b059ce960a78))
 
-![/animals/id](![image](https://github.com/user-attachments/assets/93ce4e5d-3cd5-4e16-b006-05d0d724549e))
-
-![/zookeepers/id/editar](![image](https://github.com/user-attachments/assets/8a12d4b4-a290-42a4-a400-cee421e54e62))
-
-![/zookeepers](![image](https://github.com/user-attachments/assets/f646bb93-98eb-484b-9e52-4ffa53ba3ce7))
-
-![/zookeepers/id](![image](https://github.com/user-attachments/assets/9b2059a1-41ae-4691-ad0b-662645b0a747))
-
-![/zookeepers/id/editar](![image](https://github.com/user-attachments/assets/ad44f818-d4f4-4fad-adbe-c96d758cb5ba))
 
 
 # Tecnologias utilizadas
