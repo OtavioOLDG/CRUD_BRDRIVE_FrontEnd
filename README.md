@@ -15,8 +15,8 @@ Funcionalidades do Backend:
 
     Relacionamento entre Animais e Cuidadores: Cada animal tem um cuidador responsável, e as operações da API permitem essa relação.
 
-## Frontend (Interface)
-
+## Frontend (Interface) 
+# Disponível em [https://github.com/OtavioOLDG/CRUD_BRDRIVE_FrontEnd](https://github.com/OtavioOLDG/CRUD_BRDRIVE_FrontEnd)
 O frontend do projeto é desenvolvido utilizando Next.js, React e TypeScript. A aplicação tem como objetivo criar uma interface moderna, fácil de usar e responsiva para que os administradores possam interagir com os dados do zoológico. A comunicação entre o frontend e o backend é feita por meio de requisições HTTP utilizando o fetch API.
 Funcionalidades do Frontend:
 
@@ -82,10 +82,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/OtavioOLDG/CRUD_BRDRIVE/tree/main
-
-# entrar na pasta do projeto front end web
-cd crud_zoo_frontend
+git clone https://github.com/OtavioOLDG/CRUD_BRDRIVE_FrontEnd
 
 # instalar dependências
 npm install 
