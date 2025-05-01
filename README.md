@@ -5,7 +5,7 @@
 O CRUD Zoológico é um sistema completo de gerenciamento de zoológicos que visa facilitar o controle e administração de animais e cuidadores (zookeepers). A aplicação foi projetada para fornecer uma interface eficiente e intuitiva para gerenciar dados de animais, como nome, espécie, idade, habitat, e o responsável por cada animal, além de permitir o gerenciamento de dados dos cuidadores, incluindo suas especialidades e dados pessoais.
 
 ## Backend (API)
-### Disponível em [https://github.com/OtavioOLDG/CRUD_BRDRIVE/tree/main](https://github.com/OtavioOLDG/CRUD_BRDRIVE_BackEnd)
+### Disponível em [https://github.com/OtavioOLDG/CRUD_BRDRIVE_BackEnd] (https://github.com/OtavioOLDG/CRUD_BRDRIVE_BackEnd)
 O backend é desenvolvido com Node.js, utilizando o Fastify como framework para construção da API RESTful. A aplicação faz uso do Prisma como ORM (Object-Relational Mapping), o que facilita a interação com o banco de dados. A API permite o gerenciamento de dois principais modelos de dados: Animais e Cuidadores (Zookeepers).
 Funcionalidades do Backend:
 
